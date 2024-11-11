@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning c++ and web development
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me 7aahnafraihanmuafa@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 ahnafrm-src/ahnafrm-src is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
