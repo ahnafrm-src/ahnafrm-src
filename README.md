@@ -1,5 +1,5 @@
 <!-- ## Hello World! I'm Ahnafrm 👋 -->
-![AhnafRm](github-header-image.png)
+![AhnafRm](github-header-banner.png)
 
 
 # 💻 Tech Stack:
