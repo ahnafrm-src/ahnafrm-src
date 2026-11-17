@@ -28,8 +28,8 @@ Lulusan jurusan RPL (Rekayasa Perangkat Lunak) yang suka membangun sistem inform
 
 ## Statistik GitHub
 
-![Statistik GitHub Ahnaf](https://github-readme-stats.vercel.app/api?username=ahnafrm-src&show_icons=true&hide_border=true)
-![Bahasa Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafrm-src&layout=compact&hide_border=true)
+![Statistik GitHub Ahnaf](./profile/stats.svg)
+![Bahasa Terbanyak](./profile/top-langs.svg)
 
 ## Hubungi saya
 
